@@ -1,6 +1,6 @@
 # 30DaysofBash
 
-Day01
+<h1>Day01</h1>
 Created a Bash script that:
 1. Creates a new directory called "my_project"
 2. Changes into that directory
