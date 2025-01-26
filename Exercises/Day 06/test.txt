@@ -1,0 +1,4 @@
+Hello, this is a test document to test my code.
+The program prints out the number of lines, 
+number of words, 
+and number of characters in a file.
